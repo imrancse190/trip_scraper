@@ -1,2 +1,4 @@
 scrapy
 sqlalchemy
+psycopg2-binary
+Pillow
