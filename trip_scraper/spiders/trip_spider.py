@@ -40,10 +40,10 @@ class TripSpider(scrapy.Spider):
         data=new_dog_data.get('initData').get('htlsData')
         # print("extracted_data.htlsData ",new_dog_data.get('initData').get('htlsData'))
         all_keys = list(data.keys())
-        selected_keys = random.sample(all_keys, 2)
-        print("Randomly selected keys:")
+        selected_keys = random.sample(all_keys, 3)
+        # print("Randomly selected keys:")
         for key in selected_keys:
-            # print(f"- {key}: {data[key]}")
-            print("key ",key)
+            selected_city = random.choice(data[key])
+            print("Data ",key,", city: ", selected_city)
 
         
