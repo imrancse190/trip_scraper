@@ -665,7 +665,7 @@
       "limitLocale": ["ja-JP"]
     },
     "Result": true,
-    "_duration": 15,
+    "_duration": 9,
     "canonicalUrl": "https://uk.trip.com/hotels/",
     "htlsData": {
       "inboundCities": [
@@ -828,7 +828,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54d12000dex2bvn9345.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 15, "unit": "Hour" }
+              },
               "commentTags": [],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -1920,7 +1922,7 @@
               "commentTags": ["Great rooms", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
-                "price": 134,
+                "price": 133,
                 "taxPrice": 160,
                 "oriPrice": 0,
                 "checkIn": "2024-08-12"
@@ -2261,7 +2263,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 5, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 11, "unit": "Hour" }
+              },
               "commentTags": ["Convenient location", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -2613,7 +2617,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i55t12000dex1sw610BA.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 12, "unit": "Hour" }
+              },
               "commentTags": [
                 "Great value for money",
                 "Located in the city centre"
@@ -3027,8 +3033,14 @@
               "rating": 4.1,
               "ratingTxt": "4.1",
               "ratingTag": "Very Good",
-              "imgUrl": "/0226h120008ff0g5tDE5F.jpg",
+              "imgUrl": "/0224412000ab87kbyE3CA.jpg",
               "pictureList": [
+                {
+                  "pictureId": 473065889,
+                  "pictureType": 1,
+                  "pictureTypeName": "Hotel Exterior",
+                  "pictureUrl": "/0226h120008ff0g5tDE5F.jpg"
+                },
                 {
                   "pictureId": 708627775,
                   "pictureType": 1,
@@ -3115,11 +3127,11 @@
               "prices": {
                 "priceInfos": [
                   {
-                    "price": 54,
+                    "price": 56,
                     "type": "AverageWithoutTax",
-                    "checkIn": "2024-08-12"
+                    "checkIn": "2024-08-14"
                   },
-                  { "price": 54, "type": "Cheap", "checkIn": "2024-08-14" }
+                  { "price": 56, "type": "Cheap", "checkIn": "2024-08-15" }
                 ]
               },
               "selectedReview": {
@@ -3153,11 +3165,13 @@
                   "avatarImgUrl": ""
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 0, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 10, "unit": "Hour" }
+              },
               "commentTags": ["Great stay!", "Clean and tidy"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
-                "price": 57,
+                "price": 56,
                 "taxPrice": 68,
                 "oriPrice": 64,
                 "checkIn": "2024-08-14"
@@ -4410,7 +4424,7 @@
                 }
               ],
               "stimulation": {
-                "lastBookTime": { "value": 12, "unit": "Hour" }
+                "lastBookTime": { "value": 18, "unit": "Hour" }
               },
               "commentTags": [],
               "encourage": { "breakfast": true, "cancellation": false },
@@ -4739,7 +4753,7 @@
                 }
               ],
               "stimulation": {
-                "lastBookTime": { "value": 15, "unit": "Hour" }
+                "lastBookTime": { "value": 21, "unit": "Hour" }
               },
               "commentTags": ["Great stay!", "Clean and tidy"],
               "encourage": { "breakfast": false, "cancellation": false },
@@ -4915,9 +4929,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a23i224x8vbeyhicBEDA.jpg"
                 }
               ],
-              "stimulation": {
-                "lastBookTime": { "value": 19, "unit": "Hour" }
-              },
+              "stimulation": { "lastBookTime": { "value": 0, "unit": "Hour" } },
               "commentTags": ["Great location", "Great stay!"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -5105,7 +5117,7 @@
               "commentTags": ["Great location", "Great amenities"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
-                "price": 63,
+                "price": 62,
                 "taxPrice": 75,
                 "oriPrice": 0,
                 "checkIn": "2024-08-15"
@@ -5465,7 +5477,9 @@
                   "avatarImgUrl": ""
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Great stay!", "Great location"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -5820,7 +5834,7 @@
                 }
               ],
               "stimulation": {
-                "lastBookTime": { "value": 11, "unit": "Hour" }
+                "lastBookTime": { "value": 17, "unit": "Hour" }
               },
               "commentTags": ["Great stay!", "Great location"],
               "encourage": { "breakfast": true, "cancellation": false },
@@ -6273,7 +6287,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a22s421593wejgr459BF.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 12, "unit": "Hour" }
+              },
               "commentTags": ["Easy to get around", "Convenient location"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -6646,7 +6662,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a274224x8u0u8l0a08C0.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Great stay!", "Great value for money"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -6831,7 +6849,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/Z8010v000000jy23y696A.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 4, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 10, "unit": "Hour" }
+              },
               "commentTags": ["Clean and tidy", "Great rooms"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -7014,7 +7034,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS72120009wz4vqr2887.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 14, "unit": "Hour" }
+              },
               "commentTags": ["Great stay!", "Delicious breakfast"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -7579,7 +7601,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 14, "unit": "Hour" }
+              },
               "commentTags": ["Close to airport", "Convenient location"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -8159,7 +8183,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i50h12000dex2cnoF179.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 5, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 11, "unit": "Hour" }
+              },
               "commentTags": ["Convenient location", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -8304,11 +8330,11 @@
               "prices": {
                 "priceInfos": [
                   {
-                    "price": 70,
+                    "price": 69,
                     "type": "AverageWithoutTax",
                     "checkIn": "2024-08-12"
                   },
-                  { "price": 70, "type": "Cheap", "checkIn": "2024-08-13" }
+                  { "price": 69, "type": "Cheap", "checkIn": "2024-08-13" }
                 ]
               },
               "selectedReview": {
@@ -8342,11 +8368,13 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a22z12000aihckm1B92A.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Delicious breakfast", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
-                "price": 70,
+                "price": 69,
                 "taxPrice": 81,
                 "oriPrice": 0,
                 "checkIn": "2024-08-12"
@@ -8536,7 +8564,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a20b12000ahiezcm05DC.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Easy to get around", "Convenient for shopping"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -8737,7 +8767,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54412000dex20ub5452.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 14, "unit": "Hour" }
+              },
               "commentTags": [
                 "Easy to get around",
                 "Friendly front desk staff"
@@ -8933,7 +8965,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i52g12000dex1hwn04E3.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": [
                 "Friendly front desk staff",
                 "Easy to get around"
@@ -9135,7 +9169,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS72120009wz4vqr2887.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Near shopping area", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -9321,7 +9357,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 14, "unit": "Hour" }
+              },
               "commentTags": ["Easy to get around", "Delicious breakfast"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -9907,7 +9945,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54b12000dex2gdeE7AD.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 9, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 15, "unit": "Hour" }
+              },
               "commentTags": [
                 "Friendly front desk staff",
                 "Convenient location"
@@ -10282,7 +10322,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 12, "unit": "Hour" }
+              },
               "commentTags": [
                 "Great value for money",
                 "Convenient for shopping"
@@ -10813,7 +10855,9 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a25r2234cmkjo6hs0C34.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+              "stimulation": {
+                "lastBookTime": { "value": 13, "unit": "Hour" }
+              },
               "commentTags": ["Delicious breakfast", "Large rooms"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -10860,7 +10904,7 @@
               "brief": "With a stay at Hotel Olympic Malaysia in Kuala Lumpur (Golden Triangle), you'll be within a 5-minute drive of Petronas Twin Towers and Berjaya Times Square. This hotel is 1.6 mi (2.6 km) from Pavilion Kuala Lumpur and 2 mi (3.2 km) from Kuala Lumpur Tower.\r\nMake use of convenient amenities, which include complimentary wireless Internet access and concierge services.\r\nAt Hotel Olympic Malaysia, enjoy a satisfying meal at the restaurant. English breakfasts are available daily from 6:30 AM to 10:00 AM for a fee.\r\nFeatured amenities include a 24-hour front desk, multilingual staff, and luggage storage. Self parking (subject to charges) is available onsite.\r\nMake yourself at home in one of the 155 air-conditioned rooms featuring flat-screen televisions. Complimentary wireless Internet access is available to keep you connected. Bathrooms feature showers with rainfall showerheads. Conveniences include desks and complimentary bottled water, and housekeeping is provided daily.",
               "star": 3,
               "diamond": 3,
-              "votes": 1547,
+              "votes": 1549,
               "rating": 4.1,
               "ratingTxt": "4.1",
               "ratingTag": "Very Good",
@@ -10951,9 +10995,9 @@
                   {
                     "price": 27,
                     "type": "AverageWithoutTax",
-                    "checkIn": "2024-08-14"
+                    "checkIn": "2024-08-13"
                   },
-                  { "price": 27, "type": "Cheap", "checkIn": "2024-08-16" }
+                  { "price": 27, "type": "Cheap", "checkIn": "2024-08-14" }
                 ]
               },
               "selectedReview": {
@@ -10987,7 +11031,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54d12000dex2bvn9345.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 0, "unit": "Hour" } },
+              "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
               "commentTags": ["Convenient location", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -11948,7 +11992,7 @@
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
             "price": 79,
-            "taxPrice": 93,
+            "taxPrice": 92,
             "oriPrice": 0,
             "checkIn": "2024-08-12"
           },
@@ -12307,7 +12351,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 12, "unit": "Hour" } },
           "commentTags": ["Delicious breakfast", "Large rooms"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -12495,7 +12539,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a274224x8u0u8l0a08C0.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 13, "unit": "Hour" } },
           "commentTags": ["Great stay!", "Great value for money"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -12857,7 +12901,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54b12000dex2gdeE7AD.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 12, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 18, "unit": "Hour" } },
           "commentTags": ["Convenient for shopping", "Many dining options"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -13611,7 +13655,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a25r2234cmkjo6hs0C34.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 13, "unit": "Hour" } },
           "commentTags": ["Delicious breakfast", "Large rooms"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -14127,7 +14171,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54d12000dex2bvn9345.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 13, "unit": "Hour" } },
           "commentTags": ["Great value for money", "Great location"],
           "encourage": { "breakfast": false, "cancellation": false },
           "displayPrice": {
@@ -14935,7 +14979,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS72120009wz4vqr2887.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 13, "unit": "Hour" } },
           "commentTags": ["Great location", "Convenient location"],
           "encourage": { "breakfast": false, "cancellation": false },
           "displayPrice": {
@@ -15852,7 +15896,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a225223489rlrwz4CEA3.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 14, "unit": "Hour" } },
           "commentTags": ["Convenient location", "Easy to get around"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -16571,7 +16615,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i50h12000dex2cnoF179.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 9, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 15, "unit": "Hour" } },
           "commentTags": ["Great stay!", "Great service"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -16753,7 +16797,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 14, "unit": "Hour" } },
           "commentTags": ["Great stay!", "Great service"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -16942,7 +16986,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS25120009wz63zdC6FA.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 14, "unit": "Hour" } },
           "commentTags": ["Great stay!"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -17132,7 +17176,7 @@
               "avatarImgUrl": ""
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 12, "unit": "Hour" } },
           "commentTags": ["Convenient location", "Easy to get around"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -17809,7 +17853,7 @@
     }
   ],
   "pageName": "homePage",
-  "abResults": "M:62,240715_IBU_sbar:A;M:20,221014_IBU_s2in1:B;M:59,221025_IBU_olzs:B;M:15,230519_IBU_10sco:A;",
+  "abResults": "M:0,240715_IBU_sbar:A;M:31,221014_IBU_s2in1:B;M:13,221025_IBU_olzs:B;M:22,230519_IBU_10sco:A;",
   "swtor": "/hotels/sw.js",
   "swtorSwitch": true,
   "initParams": null,
@@ -18151,7 +18195,7 @@
   "showGoogleTapByLocaleAid": {},
   "showSafariTapByLocaleAid": {},
   "aLinkSwitch": "T",
-  "P": "4433243592",
+  "P": "89843140427",
   "termValidDate": {},
   "extraQconfigData": {},
   "mapBoxUrl": "https://ak-s.tripcdn.com/modules/sysdev/mapbox/mapbox-gl.a7eeffa2759e30372540c4fe0d91dcb4.js?env=pro&sourceid=M00001&protocol=https",

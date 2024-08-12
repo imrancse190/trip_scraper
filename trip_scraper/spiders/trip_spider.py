@@ -29,21 +29,44 @@ class TripSpider(scrapy.Spider):
         
         extracted_data=extracted_data[17:-17]
         
-        # Save the extracted data to a file
         # with open('data.json', 'w', encoding='utf-8') as file:
         #     file.write(extracted_data)
-        # extracted_data = extracted_data.replace("'", '"')
+    
         new_dog_data = json.loads(extracted_data)
         extracted_data=json.dumps(extracted_data) 
-        # print(extracted_data)
+        
 
         data=new_dog_data.get('initData').get('htlsData')
-        # print("extracted_data.htlsData ",new_dog_data.get('initData').get('htlsData'))
+        # print("hotels-values",data,'\n')
+
+
         all_keys = list(data.keys())
         selected_keys = random.sample(all_keys, 3)
-        # print("Randomly selected keys:")
         for key in selected_keys:
-            selected_city = random.choice(data[key])
+            # print('All data together', data.get(key))
+
+            selected_city = random.choice(data.get(key))
             print("Data ",key,", city: ", selected_city)
+            # print("Data ",key,", city: ", selected_city.get('id'))
+
+            hotels=''
+            
+            # print("hotels-value",hotels,'\n')
+            if selected_city==None:
+                hotels=data.get(key)
+                
+                
+            else:
+                # [{}{}{}]
+                temp0=data.get(key)
+                hotels=temp0[random.randint(0, len(temp0) - 1)]
+                print("City is exits\n",hotels) 
+                # hotels=temp.get('recommendHotels')
+                
+            
+                
+                
+            print("hotels-value",hotels,'\n')
+            
 
         
