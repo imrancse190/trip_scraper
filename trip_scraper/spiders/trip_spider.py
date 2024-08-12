@@ -46,21 +46,22 @@ class TripSpider(scrapy.Spider):
             # print('All data together', data.get(key))
 
             selected_city = random.choice(data.get(key))
+            
             print("Data ",key,", city: ", selected_city)
             # print("Data ",key,", city: ", selected_city.get('id'))
-
+            print("selected_city",selected_city)
             hotels=''
-            
+            selected_city_Id = selected_city.get('id')
             # print("hotels-value",hotels,'\n')
-            if selected_city==None:
+            if not selected_city_Id: 
                 hotels=data.get(key)
-                
-                
+
             else:
                 # [{}{}{}]
                 temp0=data.get(key)
+                # print("City is exits0\n",selected_city_Id,temp0) 
                 hotels=temp0[random.randint(0, len(temp0) - 1)]
-                print("City is exits\n",hotels) 
+                # print("City is exits1\n",selected_city_Id,hotels) 
                 # hotels=temp.get('recommendHotels')
                 
             
