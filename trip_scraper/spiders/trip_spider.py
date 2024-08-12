@@ -1,5 +1,5 @@
 import scrapy
-import re
+import random
 import json
 from ..items import PropertyItem
 
@@ -24,23 +24,26 @@ class TripSpider(scrapy.Spider):
         start_index = script_content.find(start_marker)
         end_index = script_content.find(end_marker)
 
-        if start_index != -1 and end_index != -1:
-            extracted_data = script_content[start_index:end_index]
-            
-            extracted_data=extracted_data[17:-17]
-            
-            # Save the extracted data to a file
-            with open('script_content.json', 'w', encoding='utf-8') as file:
-                file.write(extracted_data)
-        else:
-            self.log("Markers not found in the page content", level=scrapy.log.WARNING)
+        
+        extracted_data = script_content[start_index:end_index]
+        
+        extracted_data=extracted_data[17:-17]
+        
+        # Save the extracted data to a file
+        # with open('data.json', 'w', encoding='utf-8') as file:
+        #     file.write(extracted_data)
+        # extracted_data = extracted_data.replace("'", '"')
+        new_dog_data = json.loads(extracted_data)
+        extracted_data=json.dumps(extracted_data) 
+        # print(extracted_data)
 
+        data=new_dog_data.get('initData').get('htlsData')
+        # print("extracted_data.htlsData ",new_dog_data.get('initData').get('htlsData'))
+        all_keys = list(data.keys())
+        selected_keys = random.sample(all_keys, 2)
+        print("Randomly selected keys:")
+        for key in selected_keys:
+            # print(f"- {key}: {data[key]}")
+            print("key ",key)
 
-        # for property in data['properties']:
-        #     item = PropertyItem()
-        #     item['name'] = property['name']
-        #     item['address'] = property['address']
-        #     item['price'] = property['price']
-        #     item['rating'] = property['rating']
-        #     item['image_url'] = property['image_url']
-        #     yield item
+        

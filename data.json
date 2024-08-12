@@ -665,7 +665,7 @@
       "limitLocale": ["ja-JP"]
     },
     "Result": true,
-    "_duration": 16,
+    "_duration": 15,
     "canonicalUrl": "https://uk.trip.com/hotels/",
     "htlsData": {
       "inboundCities": [
@@ -2261,7 +2261,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS27120009wz6aovB7AA.png"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 4, "unit": "Hour" } },
+              "stimulation": { "lastBookTime": { "value": 5, "unit": "Hour" } },
               "commentTags": ["Convenient location", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -4739,7 +4739,7 @@
                 }
               ],
               "stimulation": {
-                "lastBookTime": { "value": 14, "unit": "Hour" }
+                "lastBookTime": { "value": 15, "unit": "Hour" }
               },
               "commentTags": ["Great stay!", "Clean and tidy"],
               "encourage": { "breakfast": false, "cancellation": false },
@@ -8159,7 +8159,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i50h12000dex2cnoF179.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 4, "unit": "Hour" } },
+              "stimulation": { "lastBookTime": { "value": 5, "unit": "Hour" } },
               "commentTags": ["Convenient location", "Easy to get around"],
               "encourage": { "breakfast": true, "cancellation": false },
               "displayPrice": {
@@ -8933,7 +8933,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i52g12000dex1hwn04E3.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+              "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
               "commentTags": [
                 "Friendly front desk staff",
                 "Easy to get around"
@@ -9907,7 +9907,7 @@
                   "avatarImgUrl": "https://ak-d.tripcdn.com/target/1i54b12000dex2gdeE7AD.jpg"
                 }
               ],
-              "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
+              "stimulation": { "lastBookTime": { "value": 9, "unit": "Hour" } },
               "commentTags": [
                 "Friendly front desk staff",
                 "Convenient location"
@@ -14935,7 +14935,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS72120009wz4vqr2887.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 6, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
           "commentTags": ["Great location", "Convenient location"],
           "encourage": { "breakfast": false, "cancellation": false },
           "displayPrice": {
@@ -15852,7 +15852,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0a225223489rlrwz4CEA3.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
           "commentTags": ["Convenient location", "Easy to get around"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -16942,7 +16942,7 @@
               "avatarImgUrl": "https://ak-d.tripcdn.com/target/0AS25120009wz63zdC6FA.jpg"
             }
           ],
-          "stimulation": { "lastBookTime": { "value": 7, "unit": "Hour" } },
+          "stimulation": { "lastBookTime": { "value": 8, "unit": "Hour" } },
           "commentTags": ["Great stay!"],
           "encourage": { "breakfast": true, "cancellation": false },
           "displayPrice": {
@@ -17219,12 +17219,12 @@
         {
           "key": "SEO_Hotel_Info_Number_Of_Hotels",
           "title": "Number of Hotels",
-          "answer": "7,834,479"
+          "answer": "7,838,208"
         },
         {
           "key": "SEO_Hotel_Info_Number_Of_Reviews",
           "title": "Number of Reviews",
-          "answer": "103,920,511"
+          "answer": "104,123,247"
         },
         {
           "key": "SEO_Hotel_Info_Lowest_Price",
@@ -17234,7 +17234,7 @@
         {
           "key": "SEO_Hotel_Info_Highest_Price",
           "title": "Highest Price",
-          "answer": "£554"
+          "answer": "£551"
         }
       ],
       "expandInit": false,
@@ -17809,7 +17809,7 @@
     }
   ],
   "pageName": "homePage",
-  "abResults": "M:50,240715_IBU_sbar:A;M:7,221014_IBU_s2in1:B;M:82,221025_IBU_olzs:B;M:3,230519_IBU_10sco:A;",
+  "abResults": "M:62,240715_IBU_sbar:A;M:20,221014_IBU_s2in1:B;M:59,221025_IBU_olzs:B;M:15,230519_IBU_10sco:A;",
   "swtor": "/hotels/sw.js",
   "swtorSwitch": true,
   "initParams": null,
@@ -18151,7 +18151,7 @@
   "showGoogleTapByLocaleAid": {},
   "showSafariTapByLocaleAid": {},
   "aLinkSwitch": "T",
-  "P": "34726767157",
+  "P": "4433243592",
   "termValidDate": {},
   "extraQconfigData": {},
   "mapBoxUrl": "https://ak-s.tripcdn.com/modules/sysdev/mapbox/mapbox-gl.a7eeffa2759e30372540c4fe0d91dcb4.js?env=pro&sourceid=M00001&protocol=https",
